@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-13 13:39+0100\n"
-"PO-Revision-Date: 2021-11-07 17:15+0100\n"
+"PO-Revision-Date: 2021-12-25 21:30-0800\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Launchpad-Export-Date: 2010-05-27 09:12+0000\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 msgid "Warrior"
 msgstr "Guerrier"
@@ -455,7 +455,7 @@ msgid "Wait this unit"
 msgstr "Ce peloton attend"
 
 msgid "Wait"
-msgstr ""
+msgstr "Attendre"
 
 msgid ""
 "Waits the current creature. The current creature delays its turn until after "
@@ -585,9 +585,8 @@ msgstr "L'image miroir est détruite !"
 msgid "Break auto battle?"
 msgstr "Arrêter le combat auto ?"
 
-#, fuzzy
 msgid "Error"
-msgstr "Erreur pour rejoindre"
+msgstr "Erreur"
 
 msgid "No spells to cast."
 msgstr "Aucun sort disponible."
@@ -624,7 +623,7 @@ msgid "Human"
 msgstr "Humain"
 
 msgid "AI"
-msgstr ""
+msgstr "IA"
 
 msgid "Please select another hero."
 msgstr ""
@@ -669,7 +668,7 @@ msgid "Right Turret"
 msgstr "Tourelle droite"
 
 msgid "The %{name} fires with the strength of %{count} Archers"
-msgstr "Le %{name} tire avec la force de %{count} Archers"
+msgstr "La %{name} tire avec la force de %{count} Archers"
 
 msgid "each with a +%{attack} bonus to their attack skill."
 msgstr "chacun avec un bonus de +%{attack} à sa compétence d'attaque."
@@ -1313,9 +1312,8 @@ msgstr "Parchemin majeur"
 msgid "Minor Scroll"
 msgstr "Parchemin Mineur"
 
-#, fuzzy
 msgid "Nomad Boots"
-msgstr "Nomades"
+msgstr "Bottes Nomades"
 
 msgid "Power Axe"
 msgstr "Puissante Hache"
@@ -1741,8 +1739,8 @@ msgid ""
 "The Castle improves town defense and increases income to %{count} gold per "
 "day."
 msgstr ""
-"Le Château améliore la défense du village et augmente les revenus à %{count} "
-"pièces par jour."
+"Le Château améliore la défense du village et augmente les revenus de "
+"%{count} pièces d’or par jour."
 
 msgid ""
 "The Tent provides workers to build a castle, provided the materials and the "
@@ -1782,23 +1780,20 @@ msgstr ""
 msgid "Income"
 msgstr "Revenu"
 
-#, fuzzy
 msgid "Exit"
-msgstr "Quitter le village"
+msgstr "Quitter"
 
 msgid "Exit this menu."
 msgstr "Quitter ce menu."
 
-#, fuzzy
 msgid "Click to show next town."
-msgstr "Montrer le village suivant"
+msgstr "Cliquez pour montrer le village suivant."
 
 msgid "Show next town"
 msgstr "Montrer le village suivant"
 
-#, fuzzy
 msgid "Click to show previous town."
-msgstr "Montrer le village précédent"
+msgstr "Cliquez pour montrer le village précédent."
 
 msgid "Show previous town"
 msgstr "Montrer le village précédent"
@@ -2096,13 +2091,11 @@ msgstr "Quittez le jeu Free Heroes of Might and Magic II."
 msgid "Language"
 msgstr ""
 
-#, fuzzy
 msgid "Resolution"
-msgstr "Choisir la résolution d'écran"
+msgstr "Résolution"
 
-#, fuzzy
 msgid "Experimental"
-msgstr "Esprit"
+msgstr "Expérimental"
 
 msgid "Settings"
 msgstr "Paramètres"
@@ -2111,9 +2104,8 @@ msgstr "Paramètres"
 msgid "Select Game Language"
 msgstr "Choix de la langue :"
 
-#, fuzzy
 msgid "Change language of the game."
-msgstr "Charger la résolution du jeu."
+msgstr "Change la langue du jeu."
 
 msgid "Select Game Resolution"
 msgstr "Choisir la résolution d'écran"
@@ -2246,13 +2238,11 @@ msgid "I can offer you 1 unit of %{resto} for %{count} units of %{resfrom}."
 msgstr ""
 "Je peux vous offrir 1 unité de %{resto} pour %{count} unités de %{resfrom}."
 
-#, fuzzy
 msgid "Max"
-msgstr "Maximus"
+msgstr "Max."
 
-#, fuzzy
 msgid "Min"
-msgstr "Mine"
+msgstr "Min."
 
 msgid "Qty to trade"
 msgstr "Qté à échanger"
@@ -2400,7 +2390,7 @@ msgid "No maps exist at that size"
 msgstr "Aucune carte de cette taille n'existe"
 
 msgid "Small Maps"
-msgstr "Petite cartes"
+msgstr "Petites cartes"
 
 msgid "View only maps of size small (36 x 36)."
 msgstr "Voir seulement les petites cartes (36x36)."
@@ -2454,7 +2444,7 @@ msgid "Size Icon"
 msgstr "Taille de l'icône"
 
 msgid "Selected Name"
-msgstr "Nom choisi"
+msgstr "Carte sélectionnée"
 
 msgid "The name of the currently selected map."
 msgstr "Le nom de la carte actuellement sélectionnée."
@@ -2463,10 +2453,11 @@ msgid ""
 "Indicates whether the map is made for The Succession Wars or The Price of "
 "Loyalty version of the game."
 msgstr ""
+"Indique si la carte a été créée pour la version The Succession Wars ou The "
+"Price of Loyalty du jeu."
 
-#, fuzzy
 msgid "Map Type"
-msgstr "Musique"
+msgstr "Type de carte"
 
 msgid "Selected Map Difficulty"
 msgstr "Difficulté de la carte choisie"
@@ -2531,9 +2522,8 @@ msgstr "Accumuler une grande quantité d'or."
 msgid "Victory Condition"
 msgstr "Conditions de Victoire"
 
-#, fuzzy
 msgid "Experimental Game Settings"
-msgstr "Paramètres de jeu expérimentaux."
+msgstr "Paramètres de jeu expérimentaux"
 
 msgid "one"
 msgstr "1"
@@ -2908,16 +2898,15 @@ msgstr "Une partie mono-joueur à travers une série de cartes."
 msgid "Campaign Game"
 msgstr "Mode Campagne"
 
-#, fuzzy
 msgid ""
 "A multi-player game, with several human players completing against each "
 "other on a single map."
 msgstr ""
-"Une partie multi-joueurs, avec plusieurs joueurs humains en compétition les "
+"Une partie multijoueur, avec plusieurs joueurs humains en compétition les "
 "uns contre les autres sur une seule carte."
 
 msgid "Multi-Player Game"
-msgstr "Jeu multi-joueur"
+msgstr "Jeu multijoueur"
 
 msgid "fheroes2 Resurrection Team presents"
 msgstr "L'équipe fheroes2 Resurrection présente"
@@ -3098,9 +3087,8 @@ msgstr ""
 "Vous avez trouvé le %{name}.\n"
 "Votre quête est terminée."
 
-#, fuzzy
 msgid "Ultimate Artifact"
-msgstr "Trouver l'ultime artéfact."
+msgstr "Artéfact Ultime"
 
 msgid ""
 "The enemy is beaten.\n"
@@ -3254,7 +3242,7 @@ msgid ""
 "game. This number will be applied to your final score."
 msgstr ""
 "Le taux de difficulté reflète une combinaison de différents paramètres pour "
-"votre jeu. Cette note sera appliqué à votre score final."
+"votre jeu. Ce taux sera appliqué à votre score final."
 
 msgid "Click to accept these settings and start a new game."
 msgstr "Cliquez pour accepter ces paramètres et démarrer un nouveau jeu."
@@ -3338,7 +3326,7 @@ msgid "Continue Movement"
 msgstr "Continuer le mouvement"
 
 msgid "Continue the Hero's movement along the current path."
-msgstr "Fait continuer le mouvement du Héros le long du chemin actuel."
+msgstr "Fait continuer le mouvement du héros le long du chemin actuel."
 
 msgid "Kingdom Summary"
 msgstr "Informations sur votre Royaume"
@@ -3461,8 +3449,8 @@ msgid ""
 "shows the date. Left click here to cycle throungh these windows."
 msgstr ""
 "Cette fenêtre fournit des informations sur le statut de votre héros ou "
-"royaume, et affiche la date. Faites un clic gauche ici pour d'une à l'autre "
-"de ces fenêtres."
+"royaume, et affiche la date. Faites un clic gauche ici pour passer d'une "
+"fenêtre à l’autre."
 
 msgid "Necroman"
 msgstr "Nécroman"
@@ -5111,7 +5099,7 @@ msgid ""
 "so here's your reward. Now begone."
 msgstr ""
 "Le Sphinx soupire, l'air un peu déçu. \"Vous avez répondu à mon énigme, "
-"voici votre récompense. Maintenant, partez.\" "
+"voici votre récompense. Maintenant, partez.\""
 
 msgid ""
 "\"You guessed incorrectly,\" the Sphinx says, smiling. The Sphinx swipes at "
@@ -5743,17 +5731,14 @@ msgstr "Or par jour :"
 msgid "Heroes"
 msgstr "Héros"
 
-#, fuzzy
 msgid "View Heroes."
-msgstr "Voir Héros"
+msgstr "Voir Héros."
 
-#, fuzzy
 msgid "Towns/Castles"
-msgstr "Village/Château"
+msgstr "Villages/Châteaux"
 
-#, fuzzy
 msgid "View Towns and Castles."
-msgstr "Voir Villages"
+msgstr "Voir Villages et Châteaux."
 
 msgid "luck|Cursed"
 msgstr "Maudite"
@@ -6076,11 +6061,10 @@ msgstr "Tente de désert"
 msgid "Wagon Camp"
 msgstr "Roulotte"
 
-#, fuzzy
 msgid "Windmill"
 msgid_plural "Windmills"
 msgstr[0] "Moulin à vent"
-msgstr[1] "Moulin à vent"
+msgstr[1] "Moulins à vent"
 
 msgid "Random Town"
 msgstr "Village aléatoire"
@@ -6265,13 +6249,11 @@ msgstr "Tourbillon"
 msgid "Boat"
 msgstr "Navire"
 
-#, fuzzy
 msgid "Random Artifact"
-msgstr "Artéfact"
+msgstr "Artéfact Aléatoire"
 
-#, fuzzy
 msgid "Random Resource"
-msgstr "Ressource"
+msgstr "Ressource Aléatoire"
 
 #, fuzzy
 msgid "Random Monster - weak"
@@ -6298,9 +6280,8 @@ msgstr ""
 msgid "Random Monster"
 msgstr "Monstre Aléatoire"
 
-#, fuzzy
 msgid "Random Ultimate Artifact"
-msgstr "Trouver l'ultime artéfact."
+msgstr "Artéfact Ultime Aléatoire"
 
 msgid "Idol"
 msgstr "Idole"
@@ -6329,11 +6310,10 @@ msgstr "Survivant du naufrage"
 msgid "Bottle"
 msgstr "Bouteille"
 
-#, fuzzy
 msgid "Magic Garden"
 msgid_plural "Magic Gardens"
 msgstr[0] "Jardin magique"
-msgstr[1] "Jardin magique"
+msgstr[1] "Jardins magiques"
 
 msgid "Random Artifact - Treasure"
 msgstr ""
